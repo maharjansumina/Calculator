@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
     Button btnOne, btnTwo, btnThree, btnAdd, btnFour, btnFive, btnSix, btnSeven,
             btnEight,btnNine, btnMul, btnSub, btnDot, btnZero, btnDiv, btnEqual, btnClear;
 
-    float mValueOne , mValueTwo ;
+    float mValueOne , mValueTwo ,m2 ;
 
     boolean mAddition , mSubtract ,mMultiplication ,mDivision ;
 
