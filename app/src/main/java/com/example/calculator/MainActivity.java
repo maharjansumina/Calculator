@@ -10,6 +10,7 @@ import android.widget.EditText;
 public class MainActivity extends AppCompatActivity {
 
     EditText etResult;
+
     Button btnOne, btnTwo, btnThree, btnAdd, btnFour, btnFive, btnSix, btnSeven,
             btnEight,btnNine, btnMul, btnSub, btnDot, btnZero, btnDiv, btnEqual, btnClear;
 
