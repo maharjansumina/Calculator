@@ -9,7 +9,7 @@
 
     <EditText
         android:id="@+id/etResult"
-        android:textSize="30sp"
+        android:textSize="40sp"
         android:hint="0"
         android:gravity="right"
         android:layout_width="match_parent"
@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:background="#E993B0"
         android:text="Clear"
-        android:textSize="30sp"/>
+        android:textSize="50sp"/>
 
     <GridLayout
         android:layout_width="match_parent"
